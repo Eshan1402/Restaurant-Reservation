@@ -1,6 +1,5 @@
 # 🍽️ Restaurant Reservation System
 
-![Project Banner](https://raw.githubusercontent.com/Eshan1402/Restaurant-Reservation/main/assets/banner.png)  
 *A full-stack restaurant reservation system with a modern UI and MongoDB backend.*
 
 ## ✨ Features

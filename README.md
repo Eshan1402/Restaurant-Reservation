@@ -1,23 +1,28 @@
-# Restaurant Reservation System
+# 🍽️ Restaurant Reservation System
 
-## Overview
-This project is a full-stack application for managing restaurant reservations. It includes a backend built with Node.js and Express, and a frontend built with React and Vite.
+![Project Banner](https://raw.githubusercontent.com/Eshan1402/Restaurant-Reservation/main/assets/banner.png)  
+*A full-stack restaurant reservation system with a modern UI and MongoDB backend.*
 
-## Features
-- **Reservation Management**: Book and manage restaurant reservations.
-- **User-Friendly Interface**: Modern UI built with React.
-- **Real-Time Updates**: Instant feedback on reservation status.
+## ✨ Features
+- 📅 **Reservation Management** – Book, update, or cancel reservations.
+- ⚡ **Real-Time Feedback** – Get instant updates on reservation status.
+- 🖥️ **User-Friendly Interface** – Sleek UI with responsive design.
 
-## Tech Stack
-- **Backend**: Node.js, Express, MongoDB
-- **Frontend**: React, Vite
-- **Database**: MongoDB
+---
 
-## Getting Started
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/Eshan1402/Restaurant-Reservation.git
-   ```
+## 🛠️ Tech Stack
+
+| Frontend      | Backend      | Database    | Tools         |
+|---------------|--------------|-------------|----------------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) | ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) |
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/Eshan1402/Restaurant-Reservation.git
 
 2. **Install dependencies**:
    ```sh
